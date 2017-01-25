@@ -8,3 +8,9 @@ tala2 = int(input("sláðu inn aðra tölu: "))
 
 print("Tölurnar lagðar saman: ", tala1+tala2)
 print("Tölurnar margfaldaðar: ", tala1*tala2)
+
+#Dæmi 2
+
+fn = input("Fornafn? ")
+ef = input("Eftirnafn? ")
+print(fn , ef)
